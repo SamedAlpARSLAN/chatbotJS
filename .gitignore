@@ -1,0 +1,27 @@
+﻿# ===== Node / JS =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+Thumbs.db
+
+# ===== Env / Secrets =====
+.env
+.env.*
+*.key
+*.pem
+
+# ===== Build / cache =====
+dist/
+build/
+.cache/
+coverage/
+
+# ===== Logs =====
+logs/
+*.log
+
+# ===== Optional: data (genelde pushlanmaz) =====
+# data/
